@@ -39,6 +39,7 @@ I am from Seoul, South Korea, and I immigrated to Las Vegas, NV at age of 10. Un
   - File upload feature for verification and documentation exchange of both buyer and seller
   - Several external links for resources (lenders, sales trends, inspectors, lawyers, escrow, etc). 
 #### [HeyThere](https://heythere-hr-f3d27d8a0e61.herokuapp.com)
+##### In collaboration with Milena Pupillo & Xing Yu (Jason) Ma
 <img width="400" alt="heythere_ss1" src="https://github.com/jaeahn2010/jaeahn2010/assets/146584764/123ac2f0-d82f-4812-b388-1df5cbe761b9">
 <img width="400" alt="heythere_ss2" src="https://github.com/jaeahn2010/jaeahn2010/assets/146584764/547f9459-15af-4ba4-8652-233b62704c5d">
 <img width="400" alt="heythere_ss3" src="https://github.com/jaeahn2010/jaeahn2010/assets/146584764/93453d8d-ebc6-4759-af87-68a41bff4377">
