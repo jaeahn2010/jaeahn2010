@@ -32,27 +32,42 @@ I am from Seoul, South Korea, and I immigrated to Las Vegas, NV at age of 10. Un
 - Willing to relocate
 
 ### Projects
-- [Real Estate Redirect](https://github.com/jaeahn2010/real-estate-redirect)
-  - First full-stack MERN app: a dynamic real estate website where a home seller can easily put their home for sale, and a home buyer can quickly browse the list of available home and directly make an offer and enter into a legal contract with the seller; the website automatically takes care of populating detailed data about any seller's listing, sending showing requests to sellers, helping buyers with filling out an offer, helping sellers interpret offers, managing negotiations and various deadlines of the contractual period for both the seller and the buyer as a neutral party, as well as provide resources for necessary third parties to both buyer and seller - all so that the buyer and seller can have a direct line of communication without any necessity of hiring real estate agents.
-  - Highlights
-    - Attom API autopopulating property details
-    - File upload feature for verification and documentation exchange of both buyer and seller
-    - Several external links for resources (lenders, sales trends, inspectors, lawyers, escrow, etc). 
-- [HeyThere](https://heythere-hr-f3d27d8a0e61.herokuapp.com)
-  - First team project and Django app: a generic but flexible HR website that any company may use to manipulate their own database of employees, giving tiered access to the site admin/employer, managers, and to individual employees, in order to create/edit/delete employees and their respective information, make or review time-off requests, and post or attend events. Main responsibility for this project: database manager
-  - Highlights
-    - Signup/Login feature based on whose email is already in the database of a specific company
-    - Featured events list from Ticketmaster API, as well as embedded Google Maps from Google Maps API 
-- [Greater Las Vegas Music Services](https://glv-music-services-9d9878ce0c35.herokuapp.com)
-  - First full-stack application: a music business website where clients can browse through the list of available repertoire and compile their own list which they can request to a performer for any event they may be planning; each repertoire comes with a price tag, so that the client will know up front how much their specific request will cost
-  - Highlights
-    - Model-within-a-model: some repertoire have smaller parts called 'movements', which have their own price tags and can be individually chosen to be included in any request
-- [My personal portfolio](https://jaeahn2010.github.io/portfolio/)
-  - First-ever project: a front-end personal portfolio website where users can explore general information about who I am, as well as a brief look into my past self as a realtor and a classical pianist
-  - Highlights
-    - Modal-based resume
-    - 3 classic mini-games to pass time (Tic-Tac-Toe, Hangman, and Memory Game with Cards)
-   
+#### [Real Estate Redirect](https://github.com/jaeahn2010/real-estate-redirect)
+- First full-stack MERN app: a dynamic real estate website where a home seller can easily put their home for sale, and a home buyer can quickly browse the list of available home and directly make an offer and enter into a legal contract with the seller; the website automatically takes care of populating detailed data about any seller's listing, sending showing requests to sellers, helping buyers with filling out an offer, helping sellers interpret offers, managing negotiations and various deadlines of the contractual period for both the seller and the buyer as a neutral party, as well as provide resources for necessary third parties to both buyer and seller - all so that the buyer and seller can have a direct line of communication without any necessity of hiring real estate agents.
+- Highlights
+  - Attom API autopopulating property details
+  - File upload feature for verification and documentation exchange of both buyer and seller
+  - Several external links for resources (lenders, sales trends, inspectors, lawyers, escrow, etc). 
+#### [HeyThere](https://heythere-hr-f3d27d8a0e61.herokuapp.com)
+<img width="400" alt="heythere_ss1" src="https://github.com/jaeahn2010/jaeahn2010/assets/146584764/123ac2f0-d82f-4812-b388-1df5cbe761b9">
+<img width="400" alt="heythere_ss2" src="https://github.com/jaeahn2010/jaeahn2010/assets/146584764/547f9459-15af-4ba4-8652-233b62704c5d">
+<img width="400" alt="heythere_ss3" src="https://github.com/jaeahn2010/jaeahn2010/assets/146584764/93453d8d-ebc6-4759-af87-68a41bff4377">
+
+- First team project and Django app: a generic but flexible HR website that any company may use to manipulate their own database of employees, giving tiered access to the site admin/employer, managers, and to individual employees, in order to create/edit/delete employees and their respective information, make or review time-off requests, and post or attend events. Main responsibility for this project: database manager
+- Highlights
+  - Signup/Login feature based on whose email is already in the database of a specific company
+  - Featured events list from Ticketmaster API, as well as embedded Google Maps from Google Maps API 
+  
+#### [Greater Las Vegas Music Services](https://glv-music-services-9d9878ce0c35.herokuapp.com)
+<img width="400" alt="glvms_ss1" src="https://github.com/jaeahn2010/jaeahn2010/assets/146584764/9c0a6b77-1850-4143-81e9-070c727cd419">
+<img width="400" alt="glvms_ss2" src="https://github.com/jaeahn2010/jaeahn2010/assets/146584764/56f24e12-b3eb-47e1-a41c-15e5151bbe09">
+<img width="400" alt="glvms_ss3" src="https://github.com/jaeahn2010/jaeahn2010/assets/146584764/4e6727cc-125a-4ce9-a293-07318f4088d8">
+<img width="400" alt="glvms_ss4" src="https://github.com/jaeahn2010/jaeahn2010/assets/146584764/1c1cf460-aae3-4107-99bc-64bcfb721bfe">
+
+- First full-stack application: a music business website where clients can browse through the list of available repertoire and compile their own list which they can request to a performer for any event they may be planning; each repertoire comes with a price tag, so that the client will know up front how much their specific request will cost
+- Highlights
+  - Model-within-a-model: some repertoire have smaller parts called 'movements', which have their own price tags and can be individually chosen to be included in any request
+  - 
+#### [My personal portfolio](https://jaeahn2010.github.io/portfolio/)
+<img width="400" alt="portfolio_ss1" src="https://github.com/jaeahn2010/jaeahn2010/assets/146584764/9ba73152-4712-4d8e-aac9-246f142f7620">
+<img width="400" alt="portfolio_ss2" src="https://github.com/jaeahn2010/jaeahn2010/assets/146584764/121c2e8b-c369-47ec-8336-974a33f56c4c">
+<img width="400" alt="portfolio_ss3" src="https://github.com/jaeahn2010/jaeahn2010/assets/146584764/fd8440cd-f800-4295-9cfd-579aaa44c957">
+
+- First-ever project: a front-end personal portfolio website where users can explore general information about who I am, as well as a brief look into my past self as a realtor and a classical pianist
+- Highlights
+  - Modal-based resume
+  - 3 classic mini-games to pass time (Tic-Tac-Toe, Hangman, and Memory Game with Cards)
+ 
 ### Contact
 - Email: jaeahn2010@gmail.com
 - LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/jae-ahn-benton)
