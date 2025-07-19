@@ -32,7 +32,7 @@ I am from Seoul, South Korea, and I immigrated to Las Vegas, NV at age of 10. Un
 ![Stripe](https://img.shields.io/badge/Stripe-20232A?style=for-the-badge&logo=stripe&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-gray?style=for-the-badge&logo=unity&logoColor=white),
+![Unity](https://img.shields.io/badge/Unity-gray?style=for-the-badge&logo=unity&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-blue?style=for-the-badge&logo=wordpress&logoColor=white)
 ### Location
 - Las Vegas, NV
