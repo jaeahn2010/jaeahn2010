@@ -77,9 +77,9 @@ I am from Seoul, South Korea, and I immigrated to Las Vegas, NV at age of 10. Un
   - A contact form that protects Eugene's personal contact information, using Netlify and Zapier to handle communication tasks without a full backend to be more cost-effective
 
 #### [Ahn-Benton Cortex](https://github.com/jaeahn2010/portfolio-v2)
-<img width="1440" alt="portfolio_v2_ss1" src="https://github.com/user-attachments/assets/ad3a18d7-3de6-4046-8a06-4f76ddc1e871">
-<img width="1440" alt="portfolio_v2_ss2" src="https://github.com/user-attachments/assets/bc79c186-ed7a-4966-b9df-05f0cb5298b1">
-<img width="1440" alt="portfolio_v2_ss3" src="https://github.com/user-attachments/assets/c38b81a3-d697-4693-877c-3f3c06b3570f">
+<img width="1346" height="699" alt="abc_ss1" src="https://github.com/user-attachments/assets/78950540-96fb-4ae5-8f1f-ad61be6447ca" />
+<img width="1345" height="792" alt="abc_ss2" src="https://github.com/user-attachments/assets/bd3a47bd-56e9-4b56-8834-b20e80759fd5" />
+<img width="1344" height="798" alt="abc_ss3" src="https://github.com/user-attachments/assets/05a13d61-6a70-42b8-aaa3-38e009cd5ef9" />
 
 - Ahn-Benton Cortex: a full-stack personal portfolio website where users can explore general information about who I am as a software engineer, explore my past and ongoing projects, and leave a review.
 - Highlights
